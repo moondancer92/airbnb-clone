@@ -1,0 +1,7 @@
+{
+    "python.pythonPath": "/Users/seunghyuns/.local/share/virtualenvs/airbnb-clone-TtWgXddO/bin/python",
+    "python.linting.flake8Enabled": true,
+    "python.linting.pylintEnabled": false,
+    "python.linting.enabled": true,
+    "python.formatting.provider": "black"
+}
